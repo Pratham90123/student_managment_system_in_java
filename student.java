@@ -14,6 +14,6 @@ public class student {
         this.course=course;
     }
     public void display(){
-        System.out.println("rollno"rollno,"Name",name,"Age",age,"course",course);
+        System.out.println("rollno"+" "rollno+" "+"Name"+" "+name+" "+"Age"+" "+age+" "+"course"+" "+course);
     }
 }
